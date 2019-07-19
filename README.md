@@ -22,7 +22,7 @@ It should demonstrate responsive and user-centered design and include the follow
 - Contact (contact.html)
 - with the ability to download the resumé/ CV
 
-## Project Link: [UCD Resumé](https://https://davidhubber.github.io/ci-ucd_resume/)
+## Project Link: [UCD Resumé](https://davidhubber.github.io/ci-ucd_resume/)
 
 ---
 
@@ -33,6 +33,8 @@ It should demonstrate responsive and user-centered design and include the follow
   - Adding a profile image to the header
   - Adding the owner's Name and Title
   - Adding the menu items
+  - Styling the m enu with Font Awesome
+  - Adding hover effects to the navigation menu
 
 ## Features
 
@@ -51,10 +53,12 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Bootstrap](https://getbootstrap.com/)
+    - **Bootstrap** is a front-end component library which aids in the quick manipulation of CSS.
+- [Font Awesome](https://fontawesome.com/)
+    - **Font Awesome** is a font and icon toolkit based on CSS and LESS which gives the ability to add & control icons.
+- [Hover CSS](https://ianlunn.github.io/Hover/)
+    - **Hover CSS** is a collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images etc.
 
 
 ## Testing
