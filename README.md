@@ -51,7 +51,7 @@ It should demonstrate responsive and user-centered design and include the follow
   - My Work History
     - Adding a work history timeline
 - The Contact page
- - Adding the contact form
+  - Adding the contact form
 - Download my CV
   - Providing a CV for download
   
