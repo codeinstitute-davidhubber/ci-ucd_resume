@@ -22,7 +22,7 @@ It should demonstrate responsive and user-centered design and include the follow
 - Contact (contact.html)
 - with the ability to download the resumé/ CV
 
-## Project Link: [UCD Resumé](https://davidhubber.github.io/ci-ucd_resume/)
+## Project Link: [UCD Resumé](https://codeinstitute-davidhubber.github.io/ci-ucd_resume/)
 
 ---
 
